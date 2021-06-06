@@ -8,6 +8,8 @@
 crossorigin="anonymous"></script>
     </head>
     <body>
+    <!-- Add user . php-->
+    <!-- update registration form and ccs>
         <div class="container">
         <form method="POST" action="add_user.php"> 
                 <div class="form-group">
