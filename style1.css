@@ -1,0 +1,39 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: url("7.jpeg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+  
+}
+.nav{
+    float: right;
+    list-style: none;
+    margin-top: 30px
+}
+.nav li{
+    display: inline-block;
+}
+.nav li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "roboto",sans-serif;
+    font-size: 15px;
+}
+.nav li.active a {
+    border: 2px solid white;
+}
+.nav li a:hover{
+    border: 1px solid white;
+
+}
+.charles{
+    max-width: 1200px;
+    margin: auto;
+}
